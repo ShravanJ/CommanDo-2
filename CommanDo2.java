@@ -195,7 +195,6 @@ public class CommanDo2{
 		System.out.println("loopcount++ - prints output from a looped count++ scenario");
 		System.out.println("exit - exits the program");
 		System.out.println("commandlist - displays the list of available commands");
-
 	}
 
 }
