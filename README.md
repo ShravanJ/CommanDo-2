@@ -1,5 +1,5 @@
 # CommanDo 2
-![alt text] (https://shravanj.com/files/img/screenshot.png)
+![alt text] (https://shravanj.com/files/commando2/img2.png)
 A command line interpreter for Java, reborn.
 
 CommanDo is back and better than ever with greatly improved handling thanks to better functions, cleaner syntax, and now its open to easy modifications.
@@ -15,7 +15,6 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 
 -Improved handling
 
-![alt text] (https://shravanj.com/files/commando2/img2.png)
 
 #IMPROVEMENTS
 -loopcount++ actually works now
