@@ -5,8 +5,11 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 
 #NEW FEATURES
 -Static functions
+
 -Coherent syntax
+
 -Command List
+
 -Improved handling
 
 #IMPROVEMENTS
