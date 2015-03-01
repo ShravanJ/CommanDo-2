@@ -16,6 +16,8 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 
 -Improved handling
 
+-comments!
+
 
 #IMPROVEMENTS
 -loopcount++ actually works now
@@ -25,8 +27,6 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 -a lot of other minor improvements
 
 #COMING SOON
--comments
-
 -more functions
 
 -CommanDo 3???
