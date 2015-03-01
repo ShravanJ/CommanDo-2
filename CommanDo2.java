@@ -11,7 +11,7 @@ public class CommanDo2{
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("CommanDo 2 -  a command line interpreter for Java, reborn.");
-		System.out.println("Source available at https://github.com/ShravanJ/CommanDo2");
+		System.out.println("Source available at https://github.com/ShravanJ/CommanDo-2");
 		String input = "";
 
 		while(validInput)
