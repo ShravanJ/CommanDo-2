@@ -26,7 +26,7 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 
 -CommanDo 3???
 
-***WHERE IS THE .class AT???***
+#***WHERE IS THE .class AT???***
 Clone this repo and compile it yourself.
 
 
