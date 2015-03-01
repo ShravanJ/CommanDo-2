@@ -15,6 +15,13 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 #IMPROVEMENTS
 -loopcount++ actually works now
 
+#COMING SOON
+-comments
+
+-more functions
+
+-CommanDo 3???
+
 
 
 
