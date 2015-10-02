@@ -31,6 +31,8 @@ CommanDo is back and better than ever with greatly improved handling thanks to b
 
 -CommanDo 3???
 
+-I have no idea when I will actually finish this
+
 
 
 
