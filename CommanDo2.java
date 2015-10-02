@@ -67,7 +67,7 @@ public class CommanDo2{
 	public static void printFunction(String input)
 	{
 		String output = input;
-		String regex = "\\s*\\bprint\\b\\s*"; /*using some regex (regular experssion) magic to clean up the output because the input would be print hi and the output would be print hi, but this regex string will remove it*/
+		String regex = "\\s*\\bprint\\b\\s*"; /*using some regex (regular expression) magic to clean up the output because the input would be print hi and the output would be print hi, but this regex string will remove it*/
 		/*This if-else statement was added because "print" gets stripped out from the input so print print becomes a blank string. To fix this we validate where "print" is located and decide if we
 		 *need to add it back or not.
 		 */
